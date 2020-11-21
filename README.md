@@ -1,2 +1,1 @@
-# Chat-App
-Simple Chatting App
+# chat-app
